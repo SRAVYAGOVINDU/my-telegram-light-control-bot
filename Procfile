@@ -1,1 +1,1 @@
-eorker: python adafruit-telegram-bot.py
+worker: python adafruit-telegram-bot.py
